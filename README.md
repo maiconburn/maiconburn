@@ -9,9 +9,9 @@ I'm passionate about using technology to serve humanity, and I believe that the 
 On GitHub, you'll find my contributions to various projects, showcasing my skills in software development. I'm always eager to collaborate on new projects and learn from other developers in the community. I hope my profile conveys my passion for technology and commitment to using my skills to improve the world.
 
 ### Github Stats  
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=maiconburn&show_icons=true&count_private=true)  
+![Github Readme Stats](https://gh-stats-theta.vercel.app/api?username=maiconburn&show_icons=true&count_private=true)  
 
-![Github Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconburn)  
+![Github Readme Stats](https://gh-stats-theta.vercel.app/api/top-langs/?username=maiconburn)  
 
 #### Views  
 ![Profile views counter](https://komarev.com/ghpvc/?username=maiconburn&&style=flat-square) 
