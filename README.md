@@ -11,8 +11,6 @@ On GitHub, you'll find my contributions to various projects, showcasing my skill
 ### Github Stats  
 ![Github Readme Stats](https://gh-stats-theta.vercel.app/api?username=maiconburn&show_icons=true&count_private=true)  
 
-![Github Readme Stats](https://gh-stats-theta.vercel.app/api/top-langs/?username=maiconburn)  
-
 #### Views  
 ![Profile views counter](https://komarev.com/ghpvc/?username=maiconburn&&style=flat-square) 
 
