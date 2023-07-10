@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I am a software developer with a background in marketing, holding a degree from Unopar - University of Northern Paraná, and an MSc in Entrepreneurship from Falmouth University. My technical training in software development has allowed me to contribute to projects for renowned Brazilian brands such as BOX1824, Agency Yo, GAD, AG2, MJV, CUBOCC, among others.
+
+As a 2nd Dan Black Belt in Tae Kwon Do, I've competed in two Brazilian National Championships and the British National Championship in 2021, where I secured the third place. Additionally, I've taught classes to children and teens for seven years. This experience has honed my leadership skills and instilled values like humility, perseverance, respect, altruism, and self-control, which I carry into my professional life.
+
+I'm a founding member of two companies: Invalley Innovation and Design, where we innovate through the design and development of products, services, and strategies to improve lives; and Adeus Rotina, a unique monthly subscription service delivering romantic or intimate experiences for couples. In both companies, I oversee the technology operations and contribute to the development of our digital products.
+
+I'm passionate about using technology to serve humanity, and I believe that the most rewarding work one can do is to create a positive impact on individual lives and society. I have devoted time to volunteer with organizations like Sonhar Acordado, Junior Achievement, and Junior Chamber International, working towards this goal.
+
+On GitHub, you'll find my contributions to various projects, showcasing my skills in software development. I'm always eager to collaborate on new projects and learn from other developers in the community. I hope my profile conveys my passion for technology and my commitment to using my skills to make the world a better place.
+
+
+
+
+
+
 <!--
 **maiconburn/maiconburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
